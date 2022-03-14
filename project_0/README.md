@@ -16,7 +16,8 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
+:arrow_up:
+[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
 
 ### Какой кейс решаем
 Требуется написать программу, которая угадывает число за минимальное число попыток
@@ -32,5 +33,7 @@
 Учимся писать хороший код на python
 
 ### Краткая информация о данных
-'---
-:arrow up:[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
+
+
+:arrow up:
+[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
