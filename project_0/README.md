@@ -9,6 +9,6 @@
 [6. Выводы](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #inf)
 
 ### Описание проекта
-[Угадать загаданное компьютером число за минимальное число попыток]
+Угадать загаданное компьютером число за минимальное число попыток
 
 :arrow_up:[к оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
