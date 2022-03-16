@@ -1,37 +1,45 @@
-# Проект_0 Угадай число
+# Project_Mode_8 _HW-01_game.py_
+# "The computer hidden number guesser with the minimum attempts range amount" Game
+# Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 
-## Оглавление
-[1.Описание_проекта](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+## Оглавление / Contents
+[1.Описание_проекта / Project_Description](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Описание-проекта)
 
-[2.Какаой_кейс_решаем](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+[2.Какаой_кейс_решаем / Case_to_Code](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Какаой-кейс-решаем-/-Case-to-Code)
 
-[3.Краткая_информация_о_данных](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+[3.Краткая_информация_о_данных / Brief_Data_info](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Краткая-информация-о-данных-/-Brief-Data-info)
 
-[4.Этапы_работы_над_проектом](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+[4.Этапы_работы_над_проектом / Project_Stages](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Этапы-работы-над-проектом-/-Project-Stages)
 
-[5.Результат](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+[5.Результат / Outcome](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Результат-/-Outcome)
 
-[6.Выводы](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb#inf)
+[6.Выводы / Conclusion](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Выводы-/-Conclusion)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток
+- Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
+- Компьютер угадывает загаданное им число меньше чем за 20 попыток
 
-:arrow_up:[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
 
 ### Какой кейс решаем
-Требуется написать программу, которая угадывает число за минимальное число попыток
+Требуется написать программу, которая угадывает число меньше чем за 20 попыток
 
 **Условия соревнования:**
 - Компьютер загадывает целое число от 0 до 100, и нам нужно его угадать. Под "угадать" подразумевается написать программу, которое угадывает число.
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам
+- Необходимо добиться того, чтобы программа угадывала число меньше, чем за 20 попыток.
 
 **Метрика качества**
-Результат оценивается по среднему количеству попыток при 1000 повторениях.
+- Результаты оцениваются по среднему количеству попыток при 1000 повторений. 
+- Необходимо добиться минимального количества попыток.
 
 **Что практикуем?**
-Учимся писать хороший код на python
+- Учимся писать хороший код на Python
+- Учимся работать с IDE
+- Учимся работать с GitHub.
 
 ### Краткая информация о данных
+- Код взаимствован из базовых решений задачи
+- https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA#scrollTo=dWcE-y-N-2fE
 
-
-:arrow_up:[к_оглавлению](https://github.com/piviki/skillfactory_DS/blob/main/project_0/game.ipynb #Оглавление)
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
