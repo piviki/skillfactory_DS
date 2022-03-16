@@ -85,3 +85,6 @@ def optimal_predict(number: int = 1) -> int:
 
 optimal_predict(5)
 
+# RUN # Запустите полученный код через кнопку RUN
+if __name__ == '__main__':
+    score_game(random_predict)
