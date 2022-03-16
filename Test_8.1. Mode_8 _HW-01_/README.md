@@ -5,7 +5,7 @@
 ## Оглавление
 [1. Описание проекта](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Какаой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Краткая-информация-о-данных)
 
