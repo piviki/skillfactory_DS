@@ -39,6 +39,8 @@
 - Учимся работать с IDE
 - Учимся работать с GitHub
 
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
+
 ### Краткая информация о данных
 - Код взаимствован из базовых решений задачи
 - https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA#scrollTo=dWcE-y-N-2fE
@@ -52,9 +54,13 @@
 - Публикация кода на GitHub для дальнейшей её проверки
 - https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py
 
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
+
 ### Результат
 - Программа определяет загаданное компьютером число за минимальное количество попыток
 - Компьютер выдаёт загаданное им число меньше чем за 20 попыток
+
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
 
 ### Выводы
 - Достигнуты результаты по решению задачи
