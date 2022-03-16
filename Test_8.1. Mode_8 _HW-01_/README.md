@@ -3,17 +3,17 @@
 # Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 
 ## Оглавление / Contents
-[1.Описание_проекта / Project_Description](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Описание-проекта)
+[1.Описание_проекта / Project_Description](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Описание-проекта)
 
-[2.Какаой_кейс_решаем / Case_to_Code](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Какаой-кейс-решаем-/-Case-to-Code)
+[2.Какаой_кейс_решаем / Case_to_Code](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Какаой-кейс-решаем-/-Case-to-Code)
 
-[3.Краткая_информация_о_данных / Brief_Data_info](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Краткая-информация-о-данных-/-Brief-Data-info)
+[3.Краткая_информация_о_данных / Brief_Data_info](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Краткая-информация-о-данных-/-Brief-Data-info)
 
-[4.Этапы_работы_над_проектом / Project_Stages](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Этапы-работы-над-проектом-/-Project-Stages)
+[4.Этапы_работы_над_проектом / Project_Stages](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Этапы-работы-над-проектом-/-Project-Stages)
 
-[5.Результат / Outcome](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Результат-/-Outcome)
+[5.Результат / Outcome](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Результат-/-Outcome)
 
-[6.Выводы / Conclusion](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Выводы-/-Conclusion)
+[6.Выводы / Conclusion](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py#Выводы-/-Conclusion)
 
 ### Описание проекта
 - Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
