@@ -1,27 +1,27 @@
 # Project_Mode_8 _HW-01_game.py_
-# "The computer hidden number guesser with the minimum attempts range amount" Game
-# Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
+## "The computer hidden number guesser with the minimum attempts range amount" Game
+### Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 
-## Оглавление Contents
-[1. Описание проекта Project Description](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#1.Описание-проекта-Project-Description)
+## Оглавление
+[1. Описание проекта](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#1.Описание-проекта)
 
-[2. Какаой кейс решаем Case to Code](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Какаой-кейс-решаем-Case-to-Code)
+[2. Какаой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Какаой-кейс-решаем)
 
-[3. Краткая информация о данных Brief Data info](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Краткая-информация-о-данных-Brief-Data-info)
+[3. Краткая информация о данных](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом Project Stages](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Этапы-работы-над-проектом-Project-Stages)
+[4. Этапы работы над проектом](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Этапы-работы-над-проектом)
 
-[5. Результат Outcome](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Результат-Outcome)
+[5. Результат](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Результат)
 
-[6. Выводы Conclusion](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Выводы-Conclusion)
+[6. Выводы](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Выводы)
 
-### 1. Описание проекта Project Description
+### Описание проекта
 - Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 - Компьютер угадывает загаданное им число меньше чем за 20 попыток
 
-:arrow_up: [к оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление-Contents)
+:arrow_up: [к оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
 
-### 2. Какаой кейс решаем Case to Code
+### Какаой кейс решаем
 Требуется написать программу, которая угадывает число меньше чем за 20 попыток
 
 **Условия соревнования:**
@@ -39,25 +39,25 @@
 - Учимся работать с IDE
 - Учимся работать с GitHub
 
-### 3. Краткая информация о данных Brief Data info
+### Краткая информация о данных
 - Код взаимствован из базовых решений задачи
 - https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA#scrollTo=dWcE-y-N-2fE
 
-:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление-Contents)
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
 
-### 4. Этапы работы над проектом Project Stages
+### Этапы работы над проектом
 - Анализ задачи
 - Написание функций
 - Проверка воспроизводимости кода
 - Публикация кода на GitHub для дальнейшей её проверки
 - https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/Mode_8%20_HW-01_game.py
 
-### 5. Результат Outcome
+### Результат
 - Программа определяет загаданное компьютером число за минимальное количество попыток
 - Компьютер выдаёт загаданное им число меньше чем за 20 попыток
 
-### 6. Выводы Conclusion
+### Выводы
 - Достигнуты результаты по решению задачи
 - Приобретены навыки работы с кодом на Python, с IDE и с GitHub
 
-:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление-Contents)
+:arrow_up: [к_оглавлению](https://github.com/piviki/skillfactory_DS/tree/main/Test_8.1.%20Mode_8%20_HW-01_#Оглавление)
