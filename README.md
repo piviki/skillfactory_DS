@@ -1,6 +1,6 @@
 # My Data Science Projects
 
-From [the Skillfactory course](https://lms.skillfactory.ru/courses/course-v1:SkillFactory+DSPR-2.0+14JULY2021/course/)
+From [the Skillfactory course](https://skillfactory.ru/data-scientist-pro)
 
 ## Проекты
 
