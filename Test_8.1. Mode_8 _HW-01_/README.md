@@ -3,7 +3,7 @@
 ### Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 
 ## Оглавление
-[1. Описание проекта](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#1.Описание-проекта)
+[1. Описание проекта](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Описание-проекта)
 
 [2. Какаой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/Test_8.1.%20Mode_8%20_HW-01_/README.md#Какаой-кейс-решаем)
 
