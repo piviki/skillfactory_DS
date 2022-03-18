@@ -3,7 +3,7 @@
 # 1. Our computer thinks of an integer number from 1 to 100, and we need to guess this number. 
 # By the task  "guess"  we mean action to  "write a program (codes) that guesses a number".
 # 2. The algorithm takes into account information about 
-# whether the random number is greater or less than what we need.
+# whether the random number is greater or less than what we need
 # 3. It is necessary to ensure that the program number guesses are achieved with less than 20 attempts
 
 import numpy as np
