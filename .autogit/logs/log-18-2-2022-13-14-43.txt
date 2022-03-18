@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Fri Mar 18 2022 13:14:43 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* "Test_8.1. Mode_8 _HW-01_/Mode_8 _HW-01_game.ipynb"
+* "Test_8.1. Mode_8 _HW-01_/Mode_8 _HW-01_game.py"
+
+
+Created files:
+* .autogit/logs/log-18-2-2022-12-31-26.txt
+
+
+Deleted files:
+
+
+Renamed files:
