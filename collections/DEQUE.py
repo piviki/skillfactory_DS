@@ -48,3 +48,20 @@ shop.popleft()
 print(shop)
 # deque([12, 11, 10, 1, 2, 3, 4, 5, 6, 7, 8])
 
+# maxlen
+# ОЧЕРЕДЬ С ОГРАНИЧЕННОЙ МАКСИМАЛЬНОЙ ДЛИНОЙ
+limited = deque(maxlen=3)
+print(limited)
+# deque([], maxlen=3)
+
+limited.extend([1, 2, 3])
+print(limited)
+# deque([1, 2, 3], maxlen=3)
+
+limited_list = deque([1, 2, 3, 4, 5, 6, 7, 8], maxlen=3)
+print(limited_list)
+# deque([6, 7, 8], maxlen=3)
+# сохраняются только последние элементы, а первые исчезают из памяти
+
+
+
