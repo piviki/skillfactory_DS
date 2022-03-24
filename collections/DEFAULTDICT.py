@@ -1,0 +1,2 @@
+# DEFAULTDICT
+# for dict creation
