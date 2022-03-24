@@ -45,5 +45,25 @@ print(dict(spb_counter))
 # {'white': 2, 'blue': 1, 'red': 1, 'funny': 1, 'purple': 1}
 
 # most_common() позволяет получить список из кортежей элементов в порядке убывания их встречаемости:
-print(moscow_counter.most_common())
+print('most common', moscow_counter.most_common())
+# most common [('red', 1), ('white', 1), ('green', 1), ('orange', 1), ('blue', 0), ('purple', 0), ('funny', -1)]
 
+# # можно передать значение, которое задаёт желаемое число первых наиболее частых элементов, например, 2
+print('two most common', moscow_counter.most_common(2))
+# two most common [('red', 1), ('white', 1)]
+
+# len(list())) список уникальных номеров
+clients_List = [953421196, 953421161, 953421142, 953421186, 953421181, 953421144,
+                953421196, 953421161, 953421142, 953421186, 953421181, 953421144,
+                953421196, 953421161, 953421142, 953421186, 953421181, 953421144]
+c = Counter(clients_List)
+print(len(list(c)))
+# 6
+print('clients_List', c)
+# clients_List Counter({953421196: 3, 953421161: 3, 953421142: 3, 953421186: 3, 953421181: 3, 953421144: 3})
+print('client 953421144 is', c[953421144])
+# client 953421144 3
+print('most commom:', c.most_common())
+# most commom: [(953421196, 3), (953421161, 3), (953421142, 3), (953421186, 3), (953421181, 3), (953421144, 3)]
+print('most commom 2:', c.most_common(2))
+#  most commom: [(953421196, 3), (953421161, 3)]
