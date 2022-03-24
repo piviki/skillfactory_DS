@@ -3,9 +3,9 @@
 ### Программа, которая угадывает загаданное компьютером число за минимальное количество попыток
 
 ## Оглавление
-[1. Описание проекта](hhttps://github.com/piviki/skillfactory_DS/blob/main/project_1/README.md.md#Описание-проекта)
+[1. Описание проекта](hhttps://github.com/piviki/skillfactory_DS/blob/main/project_1/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/project_1/README.mdd#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/piviki/skillfactory_DS/blob/main/project_1/README.md#Какой-кейс-решаем)
 
 [3. Краткая информация о данных](https://github.com/piviki/skillfactory_DS/blob/main/project_1/README.md#Краткая-информация-о-данных)
 
