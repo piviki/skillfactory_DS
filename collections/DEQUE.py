@@ -58,10 +58,24 @@ limited.extend([1, 2, 3])
 print(limited)
 # deque([1, 2, 3], maxlen=3)
 
+print(limited.append(8))
+# None
+print(limited.append([8]))
+# None
+
 limited_list = deque([1, 2, 3, 4, 5, 6, 7, 8], maxlen=3)
 print(limited_list)
 # deque([6, 7, 8], maxlen=3)
 # сохраняются только последние элементы, а первые исчезают из памяти
 
+# reverse позволяет поменять порядок элементов в очереди на обратный:
+dq = deque([1, 2, 3, 4])
+print(dq)
+dq.reverse()
+print('with reverse', dq)
+# deque([1, 2, 3, 4])
+# with reverse deque([4, 3, 2, 1])
 
+deque([1, 2, 3, 4])
+with reverse deque([4, 3, 2, 1])
 
