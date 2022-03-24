@@ -15,3 +15,8 @@ for car in cars:
     c[car] +=1
 print('Making dict for the car list', c)
 # Making dict for the car list Counter({'red': 2, 'white': 2, 'black': 1, 'green': 1, 'yellow': 1})
+
+# use Counter() only
+c = Counter(cars)
+print(c)
+# Counter({'red': 2, 'white': 2, 'black': 1, 'green': 1, 'yellow': 1})
