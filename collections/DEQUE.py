@@ -76,6 +76,27 @@ print('with reverse', dq)
 # deque([1, 2, 3, 4])
 # with reverse deque([4, 3, 2, 1])
 
-deque([1, 2, 3, 4])
-with reverse deque([4, 3, 2, 1])
+# rotate перенос заданных элементов из конца очереди в начало:
+dq.rotate(3)
+print('with rotate 3', dq)
+# with rotate 3 deque([3, 2, 1, 4])
 
+dq.rotate(-2)
+print(dq)
+# deque([1, 4, 3, 2])
+
+dq.rotate(-1)
+print(dq)
+
+# Функция index 
+dq_2 = deque([1,2,4,2,3,1,5,4,4,4,4,4,3])
+print('first index is:', dq_2.index(4))
+# 2
+print('amount of number 4 is:', dq_2.count(4))
+# 6
+
+# Функция count
+print(dq_2.count(4))
+# 6
+print(dq_2.count(25))
+# 0
