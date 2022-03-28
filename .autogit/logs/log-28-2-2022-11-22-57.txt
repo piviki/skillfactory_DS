@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 28 2022 11:22:57 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* pandas/data/students_performance.csv
+
+
+Created files:
+* .autogit/logs/log-27-2-2022-23-20-31.txt
+* numpy/data_types.py
+
+
+Deleted files:
+
+
+Renamed files:
