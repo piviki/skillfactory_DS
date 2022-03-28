@@ -32,3 +32,27 @@ a = np.int8(25)
 print(a)
 # 25
 print(type(a))
+# <class 'numpy.int8'>
+
+# узнать границы int, можно воспользоваться функцией np.iinfo (int info):
+print(np.iinfo(np.int8))
+# min = -128, max = 127
+print(np.iinfo(a))
+# min = -128, max = 127
+
+# uint (unsigned int — беззнаковое целое
+b = np.uint8(124)
+print(b)
+#124
+print(type(b))
+# <class 'numpy.uint8'>
+print(np.iinfo(b))
+# min = 0, max = 255
+
+# преобразовать переменные 
+a = np.int32(2147483610)
+b = np.int32(2147483605)
+print(a, b)
+# 2147483610 2147483605
+print(np.int64(a) + np.int64(b))
+# 4294967215
