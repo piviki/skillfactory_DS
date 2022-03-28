@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Mon Mar 28 2022 19:29:43 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-28-2-2022-18-59-15.txt
+* numpy/np.array_common.py
+* numpy/np.array_new_array_build_up.py
+
+
+Deleted files:
+* numpy/np.array.py
+
+
+Renamed files:
