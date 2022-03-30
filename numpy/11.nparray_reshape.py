@@ -13,3 +13,6 @@ print(arr_new)
 # Если order='F', массив заполняется числами по столбцам
 arr_new_2 = arr.reshape((2, 4), order = 'F')
 print(arr_new_2)
+# [[0 2 4 6]
+# [1 3 5 7]]
+
