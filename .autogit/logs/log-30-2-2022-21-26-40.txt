@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Mar 30 2022 21:26:40 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-30-2-2022-20-56-18.txt
+* numpy/17.vector_np.linalg.norm_np.dot.py
+
+
+Deleted files:
+* numpy/17.vector_norm.py
+
+
+Renamed files:
