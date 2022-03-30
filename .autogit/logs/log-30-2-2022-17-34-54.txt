@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Mar 30 2022 17:34:54 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* numpy/14.np.array_np.sort.py
+
+
+Created files:
+* .autogit/logs/log-30-2-2022-16-41-30.txt
+* numpy/15.WORKING_WITH_MISSING_DATA.py
+
+
+Deleted files:
+
+
+Renamed files:

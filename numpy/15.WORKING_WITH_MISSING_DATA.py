@@ -7,7 +7,7 @@ roots = np.sqrt(data)
 print(roots)
 # RuntimeWarning: invalid value encountered in sqrt roots = np.sqrt(data)
 # [2.         3.                nan 1.73205081] 
-# # nan = Not a number (не число
+# # nan = Not a number
 #  np.nan — это отдельный представитель класса float
 
 # чтобы грамотно сравнить что-либо с None, необходимо использовать оператор is
@@ -33,3 +33,9 @@ print(roots[np.isnan(roots)])
 
 # Этим элементам можно присвоить новые значения, например 0:
 roots[np.isnan(roots)]=0
+print(roots)
+# [2.         3.         0.         1.73205081]
+
+# можем подсчитать сумму элементов массива:
+print(sum(roots))
+# 6.732050807568877
