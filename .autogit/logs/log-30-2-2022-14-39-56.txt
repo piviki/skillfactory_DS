@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Wed Mar 30 2022 14:39:56 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* numpy/11.nparray_reshape.py
+
+
+Created files:
+* .autogit/logs/log-30-2-2022-14-9-33.txt
+* numpy/12.np.array_transpose.py
+* numpy/13.np.array_INDEXES_AND_SLICING.py
+
+
+Deleted files:
+
+
+Renamed files:
