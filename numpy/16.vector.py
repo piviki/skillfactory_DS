@@ -20,3 +20,25 @@ print(sum_list1_list2)
 # умножим два вектора одинаковой длины
 print(list(vec1*vec2))
 # [24.0, 24.0, 25.2, 32.5]
+print(len(vec1))
+#4
+print(len(vec2))
+#4
+
+# умножить на число или возвести в степень этого числа
+arr = np.arange(5)
+print(arr*3)
+# [ 0  3  6  9 12]
+
+arr1 = np.arange(3)
+print(arr1**2)
+# [0 1 4]
+
+# векторы можно сравнивать друг с другом поэлементно:
+print(vec1>vec2)
+#[False False  True False]
+print(vec2<26)
+# [ True  True  True  True]
+
+print(sum(vec1)<sum(vec2))
+# True
