@@ -24,9 +24,19 @@ print(get_chess(4))
 # вы не хотите хранить в памяти новую версию плейлиста, а просто хотите сохранять тот seed, с которым он был сгенерирован.
 # Для этого напишите функцию shuffle_seed(<array>),  которая принимает на вход массив из чисел, генерирует случайное число для seed в диапазоне от 0 до 2**32 - 1 (включительно) и возвращает кортеж: перемешанный с данным seed массив (исходный массив должен оставаться без изменений), а также seed, с которым этот массив был получен
 def shuffle_seed(array):
-    seed = np.random.randint(2**16)
+    seed = np.random.randint(2**16) # ValueError: high is out of bounds for int32
     np.random.seed(seed)
     result = np.random.permutation(array)
     return result, seed
-array = [1,2,3,4,5]
+array =[1,2,3,4,5]
 print(shuffle_seed(array))
+# (array([1, 4, 5, 2, 3]), 21929)
+
+# Напишите функцию min_max_dist, которая принимает на вход неограниченное число векторов через запятую. Гарантируется, что все векторы, которые передаются, одинаковой длины
+# Функция возвращает минимальное и максимальное расстояние между векторами в виде кортежа
+def min_max_dist(*vectors):
+    dists = list()
+    for i in range(len(vectors)):
+        for j in range(i+1, len(vectors)):
+            np
+    
