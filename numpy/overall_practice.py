@@ -1,4 +1,4 @@
-# Practice
+э# Practice
 # Получите сумму чисел, сохранённых в переменных a и b
 import numpy as np
 a = 6
@@ -82,8 +82,21 @@ print(get_loto(2))
 # Напишите функцию get_unique_loto(num). Она так же, как и функция в задании 10.10, генерирует num полей для игры в лото, однако теперь на каждом поле 5х5 числа не могут повторяться.
 # Функция также должна возвращать массив формы num x 5 x 5.
 def get_unique_loto(num):
-    
+    sample = np.arange(1, 101)
+    res = list()
+    for i in range(num):
+        res.append(np.random.choice(sample, replace=False, size=(5, 5)))
+    res = np.array(res)
+    return res
 
+print(get_unique_loto(1))
+# [[[66 62 80 82 52]
+#   [23  9 10 32 63]
+#   [65 17 26 39 42]
+#   [51 40 84  6 29]
+#   [56 74  5 95 53]]]
+
+# https://pyprog.pro/short_guide.html
 
 
     
