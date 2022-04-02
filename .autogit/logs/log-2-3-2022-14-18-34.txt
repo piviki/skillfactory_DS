@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 02 2022 14:18:34 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* pandas/8.Australia_data_describe.include.ipynb
+
+
+Created files:
+* .autogit/logs/log-2-3-2022-13-48-10.txt
+* pandas/9.Australia_data_value_counts.ipynb
+
+
+Deleted files:
+
+
+Renamed files:
