@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 02 2022 20:34:31 GMT+0300 (Москва, стандартное время)
+------------------------------------------------------
+
+Modified files:
+* pandas/15.students_performance.ipynb
+
+
+Created files:
+* .autogit/logs/log-2-3-2022-20-4-14.txt
+
+
+Deleted files:
+
+
+Renamed files:
