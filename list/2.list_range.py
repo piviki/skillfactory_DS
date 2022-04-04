@@ -13,4 +13,12 @@ print(numbers[2:4]) # [2, 3]
 print(numbers[:4:2]) # [0, 2]
 num = numbers
 print(num[::-1]) # [9, 8, 7, 6, 5, 4, 3, 2, 1, 0]
-print(num.reverse())
+print(num.reverse()) # None
+
+nun2 = list(range(1,10))
+print(nun2) # [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+nun3 = list(range(10,0,-1))
+print(nun3) # [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+print(nun3[-2:]) # [2, 1] # the last two elements
