@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 05 2022 22:03:35 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-4-3-2022-23-26-16.txt
+* list/3.list_looing_for-while.py
+* list/4.list_adding_items_to_list.py
+* list/5.list_copy_deepcopy.py
+* list/6.list_comparing.py
+
+
+Deleted files:
+* list/3.list_looing_for.py
+
+
+Renamed files:
