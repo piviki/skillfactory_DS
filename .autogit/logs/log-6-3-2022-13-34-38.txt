@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 06 2022 13:34:38 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-6-3-2022-13-4-32.txt
+* pandas/18.math_with_rows.ipynb
+
+
+Deleted files:
+
+
+Renamed files:
