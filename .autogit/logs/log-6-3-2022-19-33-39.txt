@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 06 2022 19:33:39 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-6-3-2022-19-3-12.txt
+* pandas/21.timedelta.ipynb
+
+
+Deleted files:
+
+
+Renamed files:
