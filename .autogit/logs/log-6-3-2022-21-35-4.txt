@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 06 2022 21:35:04 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* pandas/22.datetime_practice.ipynb
+
+
+Created files:
+* .autogit/logs/log-6-3-2022-21-4-43.txt
+* list/7.list_append_insert_remove_pop_clear.py
+
+
+Deleted files:
+
+
+Renamed files:

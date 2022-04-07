@@ -27,4 +27,7 @@ print(users)
 last_user = users[-1]
 users.remove(last_user)
 print(users)
-# 
+# ['Bill', 'Bob']
+
+# удалим все элементы
+users.clear()
