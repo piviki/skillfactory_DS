@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Apr 07 2022 20:03:17 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-7-3-2022-17-47-44.txt
+* pandas/24.CATEGORY.ipynb
+
+
+Deleted files:
+
+
+Renamed files:
