@@ -1,4 +1,4 @@
-э# Practice
+# Practice
 # Получите сумму чисел, сохранённых в переменных a и b
 import numpy as np
 a = 6
