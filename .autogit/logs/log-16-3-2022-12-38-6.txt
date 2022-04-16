@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 16 2022 12:38:06 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* "pandas/30. join()_set_index().ipynb"
+
+
+Created files:
+* .autogit/logs/log-16-3-2022-12-7-42.txt
+* pandas/31.merge().ipynb
+
+
+Deleted files:
+
+
+Renamed files:
