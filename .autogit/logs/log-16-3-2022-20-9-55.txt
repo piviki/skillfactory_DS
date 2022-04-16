@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 16 2022 20:09:55 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-16-3-2022-19-39-32.txt
+* pandas/data/country_vaccinations.csv
+* pandas/data/covid_data.csv
+
+
+Deleted files:
+
+
+Renamed files:
