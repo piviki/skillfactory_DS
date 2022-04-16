@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 16 2022 17:38:16 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* "pandas/5.DataFrame to_csv().ipynb"
+
+
+Created files:
+* .autogit/logs/log-16-3-2022-17-7-55.txt
+
+
+Deleted files:
+
+
+Renamed files:
