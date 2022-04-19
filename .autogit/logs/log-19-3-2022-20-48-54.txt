@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 19 2022 20:48:54 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* vizuaization/covid_data.ipynb
+
+
+Created files:
+* .autogit/logs/log-19-3-2022-20-18-38.txt
+* vizuaization/Pandas_plot().ipynb
+* vizuaization/data/covid_df.csv
+
+
+Deleted files:
+
+
+Renamed files:
