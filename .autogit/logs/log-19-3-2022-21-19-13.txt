@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Apr 19 2022 21:19:13 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* vizuaization/Pandas_plot().ipynb
+
+
+Created files:
+* .autogit/logs/log-19-3-2022-20-48-54.txt
+
+
+Deleted files:
+
+
+Renamed files:
