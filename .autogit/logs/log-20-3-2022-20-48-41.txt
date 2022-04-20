@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Apr 20 2022 20:48:41 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* pandas/1.Pandas.Series_loc_iloc.ipynb
+
+
+Created files:
+* .autogit/logs/log-20-3-2022-20-18-19.txt
+
+
+Deleted files:
+
+
+Renamed files:
