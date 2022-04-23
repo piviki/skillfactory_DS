@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Sat Apr 23 2022 18:47:55 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+* vizuaization/Plotly.ipynb
+
+
+Created files:
+* .autogit/logs/log-23-3-2022-17-51-17.txt
+* vizuaization/4.2.0
+
+
+Deleted files:
+
+
+Renamed files:
