@@ -8,5 +8,5 @@ From [the Skillfactory course](https://skillfactory.ru/data-scientist-pro)
 
 * [Проект 1: Mode_8 HW_01_game](https://github.com/piviki/skillfactory_DS/tree/main/project_1)
 
-
+* [Проект 2: Churn](https://github.com/piviki/skillfactory_DS/tree/main/project_2)
 
