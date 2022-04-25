@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 25 2022 19:25:24 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-25-3-2022-18-55-2.txt
+
+
+Deleted files:
+* data_cleaning/data/sber_data.csv
+
+
+Renamed files:
