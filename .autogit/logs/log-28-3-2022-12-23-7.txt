@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Thu Apr 28 2022 12:23:07 GMT+0300 (Moscow Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-25-3-2022-21-57-30.txt
+* data_cleaning/data/diabetes_data.csv
+* data_cleaning/data/sber_data.csv
+* "project_2/SF_Python_13_\320\255\321\202\320\260\320\273\320\276\320\275\320\275\320\276\320\265_\321\200\320\265\321\210\320\265\320\275\320\270\320\265.ipynb"
+
+
+Deleted files:
+
+
+Renamed files:
